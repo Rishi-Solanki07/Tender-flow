@@ -1,5 +1,5 @@
-gmail app password how to generate/create [click-here](https://youtu.be/MkLX85XU5rU?si=dfXn9D9QaoupY4kV)
-**Libraires we need to install**
+gmail app password
+Libraires we need to install
 selenium
 beautifulsoup4
 pandas
@@ -7,4 +7,4 @@ openpyxl
 yagmail
 python-dotenv
 and some basic libraries like pandas, request, time etc...
-**we also need chrome browser**
+we also need chrome browser

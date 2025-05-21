@@ -145,7 +145,7 @@ Columns:
 * Direction/Location
 
 ---
-**Libraies and other requirements**
+**Libraries and other requirements**
 
 gmail app password how to generate/create [click-here](https://youtu.be/MkLX85XU5rU?si=dfXn9D9QaoupY4kV)
 selenium

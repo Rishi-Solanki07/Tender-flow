@@ -23,7 +23,7 @@ TenderFlow/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # This file
 ├── .env.example           # Sample for email credentials (optional)
-├── LICENSE                # MIT License
+├── Terms and conditions  # MIT License
 ├── assets/
 │   └── task_scheduler.png # Screenshot guide (optional)
 ```

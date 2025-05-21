@@ -1,4 +1,4 @@
-# TenderFlow: Automated Tender Scraper & Excel Report Generator
+# TenderFlow: Automated Tender Alerts & Business Insights with Excel Report Generator
 
 TenderFlow is a daily Python automation technique that scrapes railway tender data from the [IREPS.gov.in](https://www.ireps.gov.in) website, formats it into a clean Excel report, and emails it to clients or product managers. It's designed for companies or individuals looking to automate tender monitoring and reporting.
 

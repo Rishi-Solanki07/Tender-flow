@@ -145,12 +145,16 @@ Columns:
 * Direction/Location
 
 ---
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE)
-
----
+**Libraies and other requirements**
+gmail app password how to generate/create [click-here](https://youtu.be/MkLX85XU5rU?si=dfXn9D9QaoupY4kV)
+selenium
+beautifulsoup4
+pandas
+openpyxl
+yagmail
+python-dotenv
+and some basic libraries like pandas, request, time etc...
+**we also need chrome browser**
 
 ## 🙋‍♂️ About
 

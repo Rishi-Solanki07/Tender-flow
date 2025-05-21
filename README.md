@@ -117,7 +117,7 @@ Use the right-side panel to select `Create Task...`
 
 📸 Screenshot example provided in `assets/task_scheduler.png` or below:
 
-![Task Scheduler Setup](https://youtu.be/4n2fC97MNac?si=Ff31ofXqwum3CKce)
+❗[Task Scheduler Setup](https://youtu.be/4n2fC97MNac?si=Ff31ofXqwum3CKce)
 
 ---
 

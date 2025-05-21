@@ -25,8 +25,8 @@ TenderFlow/
 ├── .env.example           # Sample for email credentials (optional)
 ├── Terms and conditions   # MIT License
 ├── ppt/presentation       # to explain abbout this project
+```
 
----
 
 ## 🛠️ Technologies Used
 

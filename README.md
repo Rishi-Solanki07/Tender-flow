@@ -19,7 +19,7 @@ TenderFlow is a daily Python automation tool that scrapes railway tender data fr
 
 ```
 TenderFlow/
-├── main.py                # Python script
+├── python_code.ipynb                # Python script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # This file
 ├── .env.example           # Sample for email credentials (optional)

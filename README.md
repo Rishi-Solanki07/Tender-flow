@@ -119,7 +119,7 @@ Use the right-side panel to select `Create Task...`
 
 📸 Screenshot example provided in `assets/task_scheduler.png` or below:
 
-![Task Scheduler Setup](assets/task_scheduler.png)
+![Task Scheduler Setup](https://youtu.be/4n2fC97MNac?si=Ff31ofXqwum3CKce)
 
 ---
 
@@ -154,7 +154,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## 🙋‍♂️ About
 
-This general-purpose tool was built by Rishi Solanki as a real-world project to showcase:
+This general-purpose tool is a real-world project to showcase:
 
 * Data extraction
 * Automation using Python

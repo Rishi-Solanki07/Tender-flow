@@ -110,7 +110,7 @@ Use the right-side panel to select `Create Task...`
 * Add arguments:
 
   ```
-  "C:\Path\To\Your\Script\main.py"
+  "C:\Path\To\Your\Script\python_code.py"
   ```
 
 ### 6. Save and you're done!

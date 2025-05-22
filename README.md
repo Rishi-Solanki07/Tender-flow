@@ -24,7 +24,6 @@ TenderFlow/
 ├── README.md              # This file
 ├── .env.example           # Sample for email credentials (optional)
 ├── Terms and conditions   # MIT License
-├── ppt/presentation       # to explain about this project
 ```
 
 
